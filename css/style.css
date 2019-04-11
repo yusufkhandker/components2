@@ -1,0 +1,59 @@
+.header{
+	background-color: #563D7C;
+	height: 70px;
+	
+}
+
+.manu{
+	width: 98%;
+	margin: 0px 12px;
+}
+
+
+.list-unstyled{
+	color:#BBAAD3;
+	font-weight: 445;
+	font-size: 19px;
+	padding-top: 10px;
+}
+.list-unstyled ul li{
+
+}
+
+
+.list-unstyled li a {
+	color: #BBAAD3;
+	text-decoration: none;
+	transition: 0.1s;
+}
+.list-unstyled li a:hover{
+	color: white;
+
+	
+}
+.parttow{
+	float: right;
+	margin: 5px 0px;
+
+}
+
+.drpp{
+	width: 50px
+}
+
+.parttow ul{
+	
+
+}
+.parttow ul li{
+
+
+}
+.parttow ul li a:hover{
+	color: white;
+}
+
+.carousel-inner{
+	margin: 0 auto;
+}
+
